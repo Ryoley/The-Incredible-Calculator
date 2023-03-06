@@ -1,3 +1,5 @@
+## About this project
+
 This project is a calculator maked with React Native.
 
 ## Try it out
